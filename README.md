@@ -1,4 +1,4 @@
-# Project-Omnifood
+# project-omnifood
 
 Hi! This demo website was the final project in the Udemy course 'Build Responsive Real-World Websites with HTML and CSS' teached by Jonas Schmedtmann. I have written the codes while following Jonas' lectures and demos.
 
